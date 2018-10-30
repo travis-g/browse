@@ -1,0 +1,3 @@
+An ad-hoc HTTP server for directories.
+
+    $ go get github.com/travis-g/browse
